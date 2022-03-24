@@ -20,8 +20,14 @@ public class TelaLogin extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        btncadastro = new javax.swing.JButton();
+
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(null);
+
+        btncadastro.setText("Cadastrar");
+        getContentPane().add(btncadastro);
+        btncadastro.setBounds(245, 272, 90, 30);
 
         setSize(new java.awt.Dimension(398, 338));
         setLocationRelativeTo(null);
@@ -41,5 +47,6 @@ public class TelaLogin extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton btncadastro;
     // End of variables declaration//GEN-END:variables
 }
