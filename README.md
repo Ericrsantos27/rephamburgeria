@@ -1,2 +1,2 @@
 # rephamburgeria
-comi o cu de quem leu;
+Repositório criado para dar inicio e desenvolvimento em toda parte de Back-end do projeto.
